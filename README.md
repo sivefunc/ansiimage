@@ -10,12 +10,12 @@ AnsiImage is a Simple Unix terminal image viewer written in Python that utilizes
 - Unix like system
 - Python >= 3.9
 - Support to ansi escape sequences and [24bit color](https://en.wikipedia.org/wiki/Color_depth)
+- [Pillow](https://github.com/python-pillow/Pillow)
 
 ## Arguments
 - `image		    → path of the image`
 - `-h,   --help     → show this help message and exit`
 - `-v,   --version  → show program's version number and exit`
-- [Pillow](https://github.com/python-pillow/Pillow)
 
 [Bill gates mugshot](https://commons.wikimedia.org/wiki/File:Bill_Gates_mugshot.png)
 ![Mugshot](Images/bill-speed.png)
